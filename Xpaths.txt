@@ -1,0 +1,15 @@
+
+printerlist
+//ul[@class="dropdown-menu yamm"]//a[@title="Printer & Scanner"]/following-sibling::ul//strong[text()="Printers"]/parent::li/parent::ul/child::li
+Toner list
+//ul[@class="dropdown-menu yamm"]//a[@title="Printer & Scanner"]/following-sibling::ul//strong[text()="Toner & Cartridges"]/parent::li/parent::ul/child::li
+Scanner List
+//ul[@class="dropdown-menu yamm"]//a[@title="Printer & Scanner"]/following-sibling::ul//strong[text()="Scanner"]/parent::li/parent::ul/child::li
+HP Link
+//ul[@class="dropdown-menu yamm"]//a[@title="Printer & Scanner"]/following-sibling::ul//strong[text()="Printers"]/parent::li/parent::ul/child::li[2]/a
+Name of HP printers
+//div[@class="product-loop-body product-item__body"]//h2
+Price of HP printers
+//div[@class="product-loop-footer product-item__footer"]//bdi
+Page Number
+//a[@class="page-numbers"]
